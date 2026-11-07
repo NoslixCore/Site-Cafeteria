@@ -1,4 +1,4 @@
-# ☕ Cafe Delight
+# Cafe Delight
 
 ## Sobre o projeto
 
