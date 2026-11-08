@@ -17,6 +17,6 @@ O objetivo é criar um site simples, organizado e fácil de utilizar.
 
 ## Tecnologias utilizadas
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
